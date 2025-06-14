@@ -23,4 +23,4 @@ Here's what I uncovered through SQL magic:
 
 📎 Why this project matters:
  This project simulates real business problems and shows how Data Analytics can drive data-informed decisions in a fun, food-loving domain!
-🔗 Explore the full project on my GitHub:
+
